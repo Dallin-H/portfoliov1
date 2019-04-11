@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Questrial|Quicksand|Radley");
+
+
+.Skills {
+font-family: 'Quicksand', sans-serif;
+
+}
+
+.Skills_Title {
+    text-align: center;
+    margin-top: 75px;
+    text-decoration: underline;
+}
+
+.Skills_List_Container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+    align-content: stretch;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.Skills_List_Left {
+    text-align: right;
+    margin-left: -80px
+}
+

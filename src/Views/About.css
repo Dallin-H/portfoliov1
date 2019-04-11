@@ -1,0 +1,43 @@
+.About {
+    text-align: center;
+}
+
+.About_Landing_Title {
+    font-family: "Radley", serif;
+    font-size: 2.5em;
+    margin-top: 75px;
+  }
+  .About_Landing_Portrait {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
+  }
+  .About_Landing_Portrait img {
+      border-radius: 50%;
+  }
+  .About_Landing_Subtitle {
+    font-family: "Quicksand", sans-serif;
+    font-size: 1.4em;
+  
+    margin-top: 10px;
+  }
+
+  .About_Landing_Content {
+    height: 100px;
+    width: 250px;
+    margin-top: 75px;
+    word-wrap: break-word;
+    line-height: 20pt;
+  
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+  }
+  .About_Landing_Footer {
+      font-family: 'Radley', serif;
+      font-style: italic;
+
+      margin-top: 75px;
+  }
