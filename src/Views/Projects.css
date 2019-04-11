@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Questrial|Quicksand|Radley");
+
+.Projects {
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+    align-content: stretch;
+    
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.Projects_Title {
+    text-align: center;
+    margin-top: 75px;
+    text-decoration: underline;
+}
+
+.Projects_Container_Edudecks{
+    margin-top: 25px;
+}
+
+.Projects_Container_Edudecks_Title{
+    
+}
+
+.Projects_Container_Edudecks_Body{
+    width: 275px;
+    margin-top: 15px;
+}
+
+.Projects_Container_Frealxp{
+    margin-top: 25px;
+}
+
+.Projects_Container_Frealxp_Title{
+
+}
+
+.Projects_Container_Frealxp_Body{
+    width: 275px;
+    margin-top: 15px;
+}

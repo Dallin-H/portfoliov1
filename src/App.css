@@ -4,9 +4,21 @@
     font-family: 'Quicksand', sans-serif;
     font-family: 'Questrial', sans-serif; */
 .App {
-  background-color: rgb(190, 186, 181);
+  /* background-color: #393939; */
+  /* background-image: url(''); */
 
-  height: 400vh;
+  /* background: #393939;
+  background: linear-gradient(161deg, #393939 20%, #ff5a09 100%);
+  background: -webkit-linear-gradient(161deg, #393939 20%, #ff5a09 100%);
+  background: -moz-linear-gradient(161deg, #393939 20%, #ff5a09 100%); */
+
+  background: #393939;
+  background: linear-gradient(161deg,#393939 5%, #ff5a09 30%, #393939 50%, #ff5a09 100%);
+  background: -webkit-linear-gradient(161deg,#393939 5%, #ff5a09 30%, #393939 50%, #ff5a09 100%);
+  background: -moz-linear-gradient(161deg,#393939 5%, #ff5a09 30%, #393939 50%, #ff5a09 100%);
+  color: rgb(230, 230, 230);
+
+  height: 225vh;
   width: 100vw;
 
   display: flex;
@@ -16,4 +28,3 @@
   align-items: center;
   align-content: stretch;
 }
-
