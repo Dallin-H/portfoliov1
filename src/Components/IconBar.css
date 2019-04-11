@@ -1,6 +1,6 @@
 .IconBar {
     position: fixed;
-    left: 115px;
+    left: calc(50vw-60px);
     bottom: 10px;
-    width: 100%;
+    width: 120px;
 }
